@@ -33,5 +33,5 @@ class Solution:
 if __name__ == '__main__':
     St = Solution()
     y = 7
-    sq = St.mySqrt(y).real
-    print(int(sq))
+    sq = St.mySqrt(y)
+    print(sq)
